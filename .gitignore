@@ -2,3 +2,4 @@
 node_modules/
 
 # Other files and folders
+npm-debug.log
